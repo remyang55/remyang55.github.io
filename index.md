@@ -5,18 +5,17 @@
 layout: home
 title: Home
 ---
-<img src="/assets/profile_pic.jpg" alt="Profile Picture" style="float: left; margin-right: 5%" width="25%" />
+<img src="/assets/profile_pic.jpg" alt="Profile Picture" style="float: left; margin-right: 5%" width="23%" />
 
-Hope you're having a great day, thanks for stopping by! I am a sophomore majoring in [Computer Science at the University of Illinois at Urbana-Champaign](https://cs.illinois.edu/) (UIUC) who is interested in research and writing impactful software, originally from [Taipei](https://goo.gl/maps/fLFFyzRABR2QwTAE7). Please send me an email if you'd like to talk about anything at all!
+Hope you're having a great day, thanks for stopping by! I am a sophomore majoring in [computer science at the University of Illinois at Urbana-Champaign](https://cs.illinois.edu/) (UIUC) who is interested in research and creating impactful software, originally from [Taipei](https://goo.gl/maps/fLFFyzRABR2QwTAE7). Please send me an email if you'd like to talk about anything at all!
 
 Sections:  
-<a href="#research--teaching-experience">Research + Teaching Experience</a> • <a href="#projects">Projects</a> • <a href="#fun-stuff">Fun Stuff</a>
+<a href="#research-and-teaching">Research and Teaching</a> • <a href="#projects">Projects</a> • <a href="#fun-stuff">Fun Stuff</a>
 
-<br>
-## Research + Teaching Experience ##
+## Research and Teaching ##
 <hr style="margin-top: -1em; margin-bottom: 1em" />
 
-My current research is on programming languages and approximate computing, but I'm always interested in reading/learning/researching any exciting topics in computer science!
+My current research is on programming languages and approximate computing, but I'm always interested in learning more about any exciting topics in computer science!
 
 ### **Approximate and Resilient Computing Group** ###
 (March 2020 - ) I am working on probabilistic programming in the context of low-precision computations with [Jacob Laurel](https://jsl1994.github.io/) and [Professor Sasa Misailovic](http://misailo.cs.illinois.edu/). Our paper on this work (cited below) was recently accepted to DAC '21. We are in the process of open-sourcing our code, which will be linked here soon.
