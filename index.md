@@ -7,7 +7,7 @@ title: Home
 ---
 <img src="/assets/profile_pic.jpg" alt="Profile Picture" style="float: left; margin-right: 5%" width="23%" />
 
-Hope you're having a great day, thanks for stopping by! I am a sophomore majoring in [computer science at the University of Illinois at Urbana-Champaign](https://cs.illinois.edu/) (UIUC) who is interested in research and creating impactful software, originally from [Taipei](https://goo.gl/maps/fLFFyzRABR2QwTAE7). Please send me an email if you'd like to talk about anything at all!
+Hope you're having a great day, thanks for stopping by! I am a rising junior majoring in [computer science at the University of Illinois at Urbana-Champaign](https://cs.illinois.edu/) (UIUC) who is interested in research and creating impactful software, originally from [Taipei](https://goo.gl/maps/fLFFyzRABR2QwTAE7). Please send me an email if you'd like to talk about anything at all!
 
 Sections:  
 <a href="#research-and-teaching">Research and Teaching</a> • <a href="#projects">Projects</a> • <a href="#fun-stuff">Fun Stuff</a>
@@ -18,20 +18,23 @@ Sections:
 My current research is on programming languages and approximate computing, but I'm always interested in learning more about any exciting topics in computer science!
 
 ### **Approximate and Resilient Computing Group** ###
-(March 2020 - ) I am working on probabilistic programming in the context of low-precision computations with [Jacob Laurel](https://jsl1994.github.io/) and [Professor Sasa Misailovic](http://misailo.cs.illinois.edu/). Our paper on this work (cited below) was recently accepted to DAC '21. We are in the process of open-sourcing our code, which will be linked here soon.
+(March 2020 - ) I am actively working with [Jacob Laurel](https://jsl1994.github.io/) and [Professor Sasa Misailovic](http://misailo.cs.illinois.edu/). Previously, we worked on a compiler for a probabilistic programming language that leveraged fixed-point numbers to accelerate inference. We published this paper (which is linked below) at DAC, and are in the process of developing follow-up work.
 - **Statheros: Compiler for Efficient Low-Precision Probabilistic Programming**  
 Jacob Laurel, <u>Rem Yang</u>, Atharva Sehgal, Shubham Ugare, Sasa Misailovic  
-_Accepted to the 58th ACM/EDAC/IEEE Design Automation Conference, 2021._  
+_To appear at the 58th ACM/IEEE Design Automation Conference, 2021._  
+[Full Text](/assets/DAC2021_Final.pdf)
+
+Furthermore, we have recently also been exploring a novel framework for analyzing neural networks; more to follow on that!
 
 ### **Laboratory for Advanced Space Systems at Illinois** ###
 (September 2019 - March 2020) I built an automated system to measure the moment of inertia of [LASSI](https://lassiaero.web.illinois.edu/)'s CubeSat and tested the satellite's attitude determination software. I also worked on a browser-based graphical interface for the lab's mission operations center.
 
 ### **Teaching (Course Assistant)** ###
-(Fall 2020 & Spring 2021) [CS 225 Data Structures](https://courses.engr.illinois.edu/cs225/sp2021/). Current office hours: Monday 00:00 - 02:00 CST  
-I help students with MPs and labs in weekly lab sections and office hours.  
+(Fall 2020 & Spring 2021) [CS 225 Data Structures](https://courses.engr.illinois.edu/cs225/sp2021/).
+I helped students with machine problems and labs in weekly lab sections and office hours.  
 
 (Spring 2020) [CS 126 Software Design Studio](https://courses.grainger.illinois.edu/cs126/sp2020/staff/).  
-I facilitated weekly 2-hour code reviews with 5 students, which consisted of project presentations and discussions of program design, style, and testing; graded student projects.
+I facilitated weekly 2-hour code reviews with 5 students, which consisted of project presentations and discussions of program design, style, and testing. I also graded these students' projects.
 
 ## Projects ##
 <hr style="margin-top: -1em; margin-bottom: 1em" />
@@ -61,4 +64,4 @@ I also love playing chess, trivia, and other strategy games. If you'd like to pl
 **Sporcle:** I enjoy a nice trivia match from time to time (especially in the Geography section). [Here](https://www.sporcle.com/user/remythecooldude/) is my Sporcle account (the username is a little embarrassing, as I made the account back in sixth grade).
 
 <br>
-_Last updated on 03/01/2021_
+_Last updated on 07/15/2021_
