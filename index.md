@@ -10,7 +10,20 @@ title: Home
 Hope you're having a great day, thanks for stopping by! I am a junior majoring in [computer science at the University of Illinois at Urbana-Champaign](https://cs.illinois.edu/) (UIUC) who is interested in research and creating impactful software, originally from [Taipei](https://goo.gl/maps/fLFFyzRABR2QwTAE7). Please send me an email if you'd like to talk about anything at all!
 
 Sections:  
-<a href="#research-and-teaching">Research and Teaching</a> • <a href="#projects">Projects</a> • <a href="#fun-stuff">Fun Stuff</a>
+<a href="#publications">Publications</a> • <a href="#research-and-teaching">Research and Teaching</a> • <a href="#projects">Projects</a> • <a href="#fun-stuff">Fun Stuff</a>
+
+## Publications ##
+<hr style="margin-top: -1em; margin-bottom: 1em" />
+
+- **A Dual Number Abstraction for Static Analysis of Clarke Jacobians**  
+Jacob Laurel, <u>Rem Yang</u>, Gagandeep Singh, Sasa Misailovic  
+_49th ACM SIGPLAN Symposium on Principles of Programming Languages (POPL 2022)._  
+[Full Text](/assets/POPL2022_CameraReady.pdf)
+
+- **Statheros: Compiler for Efficient Low-Precision Probabilistic Programming**  
+Jacob Laurel, <u>Rem Yang</u>, Atharva Sehgal, Shubham Ugare, Sasa Misailovic  
+_58th ACM/IEEE Design Automation Conference (DAC 2021)._  
+[Full Text](/assets/DAC2021_Final.pdf)
 
 ## Research and Teaching ##
 <hr style="margin-top: -1em; margin-bottom: 1em" />
@@ -18,23 +31,10 @@ Sections:
 I currently work on programming languages (PL) and machine learning (ML) research, but I'm always interested in learning more about any exciting topics in computer science!
 
 ### **C3SR-URAI Research Program** ###
-(September 2021 - ) I am working on a team consisting of four undergraduates from UIUC and two researchers from IBM on federated machine learning. More to come!
+(September 2021 - ) I am working with researchers from IBM on a topic in federated learning as part of the C3SR-URAI research program. More to come!
 
 ### **Approximate and Resilient Computing Group** ###
-(March 2020 - ) I am actively working with [Jacob Laurel](https://jsl1994.github.io/), [Professor Sasa Misailovic](https://misailo.cs.illinois.edu/), and [Professor Gagandeep Singh](https://ggndpsngh.github.io/). We've worked together on these projects below.
-
-- **A Dual Number Abstraction for Static Analysis of Clarke Jacobians**  
-Jacob Laurel, <u>Rem Yang</u>, Gagandeep Singh, Sasa Misailovic  
-_Conditionally Accepted to the 49th ACM Symposium on Principles of Programming Languages (POPL 2022)._  
-An abstract domain based on dual numbers that soundly over-approximates a function's Clarke Jacobian.
-
-- **Statheros: Compiler for Efficient Low-Precision Probabilistic Programming**  
-Jacob Laurel, <u>Rem Yang</u>, Atharva Sehgal, Shubham Ugare, Sasa Misailovic  
-_To appear at the 58th ACM/IEEE Design Automation Conference (DAC 2021)._  
-[Full Text](/assets/DAC2021_Final.pdf) · [Code](#)  
-A probabilistic programming language that leverages fixed-point numbers to accelerate inference.
-
-And more to come!
+(March 2020 - ) I am actively working with [Jacob Laurel](https://jsl1994.github.io/), [Professor Sasa Misailovic](https://misailo.cs.illinois.edu/), and [Professor Gagandeep Singh](https://ggndpsngh.github.io/). We've worked together on 1. a dual number-based abstract domain that soundly over-approximates a function's Clarke Jacobian and 2. a probabilistic programming language that leverages fixed-point numbers to accelerate inference. We have more exciting projects to come!
 
 ### **Laboratory for Advanced Space Systems at Illinois** ###
 (September 2019 - March 2020) I built an automated system to measure the moment of inertia of [LASSI](https://lassiaero.web.illinois.edu/)'s CubeSat and tested the satellite's attitude determination software. I also worked on a browser-based graphical interface for the lab's mission operations center.
@@ -43,7 +43,7 @@ And more to come!
 (Fall 2020 & Spring 2021) [CS 225 Data Structures](https://courses.engr.illinois.edu/cs225/sp2021/).
 I helped students with machine problems and labs in weekly lab sections and office hours.  
 
-(Spring 2020) [CS 126 Software Design Studio](https://courses.grainger.illinois.edu/cs126/sp2020/staff/).  
+(Spring 2020) [CS 126 Software Design Studio](https://courses.grainger.illinois.edu/cs126/sp2020/staff/).
 I facilitated weekly 2-hour code reviews with 5 students, which consisted of project presentations and discussions of program design, style, and testing. I also graded these students' projects.
 
 ## Projects ##
@@ -74,4 +74,4 @@ I also love playing chess, trivia, and other strategy games. If you'd like to pl
 **Sporcle:** I enjoy a nice trivia match from time to time (especially in the Geography section). [Here](https://www.sporcle.com/user/remythecooldude/) is my Sporcle account (the username is a little embarrassing, as I made the account back in sixth grade).
 
 <br>
-_Last updated on 10/05/2021_
+_Last updated on 11/11/2021_
