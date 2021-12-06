@@ -18,7 +18,7 @@ Sections:
 - **A Dual Number Abstraction for Static Analysis of Clarke Jacobians**  
 Jacob Laurel, <u>Rem Yang</u>, Gagandeep Singh, Sasa Misailovic  
 _49th ACM SIGPLAN Symposium on Principles of Programming Languages (POPL 2022)._  
-[Full Text](/assets/POPL2022_CameraReady.pdf)
+[Full Text](/assets/POPL2022_Final.pdf)
 
 - **Statheros: Compiler for Efficient Low-Precision Probabilistic Programming**  
 Jacob Laurel, <u>Rem Yang</u>, Atharva Sehgal, Shubham Ugare, Sasa Misailovic  
