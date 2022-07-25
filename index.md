@@ -7,47 +7,53 @@ title: Home
 ---
 <img src="/assets/profile_pic.jpg" alt="Profile Picture" style="float: left; margin-right: 5%" width="23%" />
 
-Hope you're having a great day, thanks for stopping by! I am a junior majoring in [computer science at the University of Illinois at Urbana-Champaign](https://cs.illinois.edu/) (UIUC) who is interested in research and creating impactful software, originally from [Taipei](https://goo.gl/maps/fLFFyzRABR2QwTAE7). Please send me an email if you'd like to talk about anything at all!
+Hope you're having a great day, thanks for stopping by! I am a rising senior majoring in [computer science at the University of Illinois at Urbana-Champaign](https://cs.illinois.edu/) (UIUC) who is interested in research and creating impactful software, originally from [Taipei](https://goo.gl/maps/fLFFyzRABR2QwTAE7). Please send me an email if you'd like to talk about anything at all!
 
 Sections:  
-<a href="#publications">Publications</a> • <a href="#research-and-teaching">Research and Teaching</a> • <a href="#projects">Projects</a> • <a href="#fun-stuff">Fun Stuff</a>
+<a href="#papers">Research Papers</a> • <a href="#experience">Experience</a> • <a href="#projects">Projects</a> • <a href="#fun-stuff">Fun Stuff</a>
 
-## Publications ##
-<hr style="margin-top: -1em; margin-bottom: 1em" />
+## Research Papers ##
+<hr style="margin-top: -1em; margin-bottom: 1em; height: 1px; background-color:black" />
 
-- **A Dual Number Abstraction for Static Analysis of Clarke Jacobians**  
+**Training Certifiably Robust Neural Networks Against Semantic Perturbations***  
+<u>Rem Yang</u>, Jacob Laurel, Sasa Misailovic, Gagandeep Singh  
+_arXiv preprint arXiv:2207.11177._  
+[[Full Text]](https://arxiv.org/abs/2207.11177)
+
+**A Dual Number Abstraction for Static Analysis of Clarke Jacobians***  
 Jacob Laurel, <u>Rem Yang</u>, Gagandeep Singh, Sasa Misailovic  
 _49th ACM SIGPLAN Symposium on Principles of Programming Languages (POPL 2022)._  
-[Full Text](/assets/POPL2022_Final.pdf)
+[[Full Text]](/assets/POPL2022_Final.pdf)
 
-- **Statheros: Compiler for Efficient Low-Precision Probabilistic Programming**  
+**Statheros: Compiler for Efficient Low-Precision Probabilistic Programming**  
 Jacob Laurel, <u>Rem Yang</u>, Atharva Sehgal, Shubham Ugare, Sasa Misailovic  
 _58th ACM/IEEE Design Automation Conference (DAC 2021)._  
-[Full Text](/assets/DAC2021_Final.pdf)
+[[Full Text]](/assets/DAC2021_Final.pdf)
 
-## Research and Teaching ##
-<hr style="margin-top: -1em; margin-bottom: 1em" />
+<hr style="width:90%; border:none; border-top: dashed 1px" />
+**\***_Exciting follow-up work coming soon!_
 
-I currently work on programming languages (PL) and machine learning (ML) research, but I'm always interested in learning more about any exciting topics in computer science!
-
-### **C3SR-URAI Research Program** ###
-(September 2021 - ) I am working with researchers from IBM on a topic in federated learning as part of the C3SR-URAI research program. More to come!
+## Experience ##
+<hr style="margin-top: -1em; margin-bottom: 1em; height: 1px; background-color:black" />
 
 ### **Approximate and Resilient Computing Group** ###
-(March 2020 - ) I am actively working with [Jacob Laurel](https://jsl1994.github.io/), [Professor Sasa Misailovic](https://misailo.cs.illinois.edu/), and [Professor Gagandeep Singh](https://ggndpsngh.github.io/). We've worked together on 1. a dual number-based abstract domain that soundly over-approximates a function's Clarke Jacobian and 2. a probabilistic programming language that leverages fixed-point numbers to accelerate inference. We have more exciting projects to come!
+(*Current*: Spring 2020 - ) Working with and mentored by [Jacob Laurel](https://jsl1994.github.io/), [Professor Sasa Misailovic](https://misailo.cs.illinois.edu/), and [Professor Gagandeep Singh](https://ggndpsngh.github.io/). We work on a variety of fun topics in programming languages and machine learning. We have more exciting projects to come!
+
+### **C3SR-URAI Research Program** ###
+(*Current*: Fall 2021 - ) Working with researchers from IBM on a topic in federated learning as part of the C3SR-URAI research program. More to come!
 
 ### **Laboratory for Advanced Space Systems at Illinois** ###
-(September 2019 - March 2020) I built an automated system to measure the moment of inertia of [LASSI](https://lassiaero.web.illinois.edu/)'s CubeSat and tested the satellite's attitude determination software. I also worked on a browser-based graphical interface for the lab's mission operations center.
+(Fall 2019 - Spring 2020) Built an automated system to measure the moment of inertia of [LASSI](https://lassiaero.web.illinois.edu/)'s CubeSat and tested the satellite's attitude determination software. Also worked on a browser-based graphical interface for the lab's mission operations center.
 
 ### **Teaching (Course Assistant)** ###
 (Fall 2020 & Spring 2021) [CS 225 Data Structures](https://courses.engr.illinois.edu/cs225/sp2021/).
-I helped students with machine problems and labs in weekly lab sections and office hours.  
+Helped students with machine problems and labs in weekly lab sections and office hours.  
 
 (Spring 2020) [CS 126 Software Design Studio](https://courses.grainger.illinois.edu/cs126/sp2020/staff/).
-I facilitated weekly 2-hour code reviews with 5 students, which consisted of project presentations and discussions of program design, style, and testing. I also graded these students' projects.
+Facilitated weekly 2-hour code reviews with 5 students, which consisted of project presentations and discussions of program design, style, and testing. Also graded students' projects.
 
 ## Projects ##
-<hr style="margin-top: -1em; margin-bottom: 1em" />
+<hr style="margin-top: -1em; margin-bottom: 1em; height: 1px; background-color:black" />
 
 ### **Illinois Computer Science Sail Website** ###
 [Source Code](https://github.com/SAIL-UIUC/sail-website). _Created with Django and hosted on an Apache server with a MySQL database._  
@@ -62,10 +68,10 @@ I made this for HackIllinois' [HackThis](https://hackthis.hackillinois.org/) vir
 I created this as a final project for UIUC's CS 126 Software Design Studio class. The game uses openFrameworks' openCV library so that you can play the classic Fruit Ninja game by swiping your finger in front of your laptop's webcam.
 
 ### **High School Stuff** ###
-There are also some small applets I wrote in high school, which are not on Github as I didn't use source control back then (good thing I learned it now!). But here are some fun games that I cowrote (with original music and artwork!) for a video game programming class: [Time Will Tell](https://gamejolt.com/games/TimeWillTell/357199) and [December 8th](https://gamejolt.com/games/December8/350027) (alluding to the assignment's due date).
+There are also some small applets I wrote in high school, which are not on GitHub as I didn't use source control back then (good thing I learned it now!). But here are some fun games that I cowrote (with original music and artwork!) for a video game programming class: [Time Will Tell](https://gamejolt.com/games/TimeWillTell/357199) and [December 8th](https://gamejolt.com/games/December8/350027) (alluding to the assignment's due date).
 
 ## Fun Stuff ##  
-<hr style="margin-top: -1em; margin-bottom: 1em" />
+<hr style="margin-top: -1em; margin-bottom: 1em; height: 1px; background-color:black" />
 
 I also love playing chess, trivia, and other strategy games. If you'd like to play, let me know!
 
@@ -74,4 +80,4 @@ I also love playing chess, trivia, and other strategy games. If you'd like to pl
 **Sporcle:** I enjoy a nice trivia match from time to time (especially in the Geography section). [Here](https://www.sporcle.com/user/remythecooldude/) is my Sporcle account (the username is a little embarrassing, as I made the account back in sixth grade).
 
 <br>
-_Last updated on 11/11/2021_
+_Last updated on 07/25/2022_
