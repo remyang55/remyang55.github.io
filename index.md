@@ -13,7 +13,7 @@ Sections:
 <a href="#papers">Research Papers</a> • <a href="#experience">Experience</a> • <a href="#projects">Projects</a> • <a href="#fun-stuff">Fun Stuff</a>
 
 ## Research Papers ##
-<hr style="margin-top: -1em; margin-bottom: 1em; height: 1px; background-color:black" />
+<hr style="margin-top: -1em; margin-bottom: 1em; height: 2px; background-color:black; border:none" />
 
 **Training Certifiably Robust Neural Networks Against Semantic Perturbations***  
 <u>Rem Yang</u>, Jacob Laurel, Sasa Misailovic, Gagandeep Singh  
@@ -34,7 +34,7 @@ _58th ACM/IEEE Design Automation Conference (DAC 2021)._
 **\***_Exciting follow-up work coming soon!_
 
 ## Experience ##
-<hr style="margin-top: -1em; margin-bottom: 1em; height: 1px; background-color:black" />
+<hr style="margin-top: -1em; margin-bottom: 1em; height: 2px; background-color:black; border:none" />
 
 ### **Approximate and Resilient Computing Group** ###
 (*Current*: Spring 2020 - ) Working with and mentored by [Jacob Laurel](https://jsl1994.github.io/), [Professor Sasa Misailovic](https://misailo.cs.illinois.edu/), and [Professor Gagandeep Singh](https://ggndpsngh.github.io/). We work on a variety of fun topics in programming languages and machine learning. We have more exciting projects to come!
@@ -53,7 +53,7 @@ Helped students with machine problems and labs in weekly lab sections and office
 Facilitated weekly 2-hour code reviews with 5 students, which consisted of project presentations and discussions of program design, style, and testing. Also graded students' projects.
 
 ## Projects ##
-<hr style="margin-top: -1em; margin-bottom: 1em; height: 1px; background-color:black" />
+<hr style="margin-top: -1em; margin-bottom: 1em; height: 2px; background-color:black; border:none" />
 
 ### **Illinois Computer Science Sail Website** ###
 [Source Code](https://github.com/SAIL-UIUC/sail-website). _Created with Django and hosted on an Apache server with a MySQL database._  
@@ -71,7 +71,7 @@ I created this as a final project for UIUC's CS 126 Software Design Studio class
 There are also some small applets I wrote in high school, which are not on GitHub as I didn't use source control back then (good thing I learned it now!). But here are some fun games that I cowrote (with original music and artwork!) for a video game programming class: [Time Will Tell](https://gamejolt.com/games/TimeWillTell/357199) and [December 8th](https://gamejolt.com/games/December8/350027) (alluding to the assignment's due date).
 
 ## Fun Stuff ##  
-<hr style="margin-top: -1em; margin-bottom: 1em; height: 1px; background-color:black" />
+<hr style="margin-top: -1em; margin-bottom: 1em; height: 2px; background-color:black; border:none" />
 
 I also love playing chess, trivia, and other strategy games. If you'd like to play, let me know!
 
