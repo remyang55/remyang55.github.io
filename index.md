@@ -10,7 +10,7 @@ title: Home
 Hope you're having a great day, thanks for stopping by! I am a rising senior majoring in [computer science at the University of Illinois at Urbana-Champaign](https://cs.illinois.edu/) (UIUC) who is interested in research and creating impactful software, originally from [Taipei](https://goo.gl/maps/fLFFyzRABR2QwTAE7). Please send me an email if you'd like to talk about anything at all!
 
 Sections:  
-<a href="#papers">Research Papers</a> • <a href="#experience">Experience</a> • <a href="#projects">Projects</a> • <a href="#fun-stuff">Fun Stuff</a>
+<a href="#research-papers">Research Papers</a> • <a href="#experience">Experience</a> • <a href="#projects">Projects</a> • <a href="#fun-stuff">Fun Stuff</a>
 
 ## Research Papers ##
 <hr style="margin-top: -1em; margin-bottom: 1em; height: 2px; background-color:black; border:none" />
