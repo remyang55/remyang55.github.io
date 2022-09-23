@@ -7,7 +7,8 @@ title: Home
 ---
 <img src="/assets/profile_pic.jpg" alt="Profile Picture" style="float: left; margin-right: 5%" width="23%" />
 
-Hope you're having a great day, thanks for stopping by! I am a rising senior majoring in [computer science at the University of Illinois at Urbana-Champaign](https://cs.illinois.edu/) (UIUC) who is interested in research and creating impactful software, originally from [Taipei](https://goo.gl/maps/fLFFyzRABR2QwTAE7). Please send me an email if you'd like to talk about anything at all!
+Hope you're having a great day, thanks for stopping by!  
+I am a senior majoring in [computer science at the University of Illinois Urbana-Champaign](https://cs.illinois.edu/) (UIUC) who is interested in research and creating impactful software, originally from [Taipei](https://goo.gl/maps/fLFFyzRABR2QwTAE7). Please send me an email if you'd like to talk about anything at all!
 
 Sections:  
 <a href="#research-papers">Research Papers</a> • <a href="#experience">Experience</a> • <a href="#projects">Projects</a> • <a href="#fun-stuff">Fun Stuff</a>
@@ -15,19 +16,24 @@ Sections:
 ## Research Papers ##
 <hr style="margin-top: -1em; margin-bottom: 1em; height: 2px; background-color:black; border:none" />
 
+**A General Construction for Abstract Interpretation of Higher-Order Automatic Differentiation**  
+Jacob Laurel, <u>Rem Yang</u>, Shubham Ugare, Robert Nagel, Gagandeep Singh, Sasa Misailovic  
+_ACM SIGPLAN Conference on Object-Oriented Programming, Systems, Languages and Applications (OOPSLA) 2022._  
+[[Full Text]](/assets/OOPSLA2022_Final.pdf)
+
 **Training Certifiably Robust Neural Networks Against Semantic Perturbations***  
 <u>Rem Yang</u>, Jacob Laurel, Sasa Misailovic, Gagandeep Singh  
 _arXiv preprint arXiv:2207.11177._  
 [[Full Text]](https://arxiv.org/abs/2207.11177)
 
-**A Dual Number Abstraction for Static Analysis of Clarke Jacobians***  
+**A Dual Number Abstraction for Static Analysis of Clarke Jacobians**  
 Jacob Laurel, <u>Rem Yang</u>, Gagandeep Singh, Sasa Misailovic  
-_49th ACM SIGPLAN Symposium on Principles of Programming Languages (POPL 2022)._  
+_ACM SIGPLAN Symposium on Principles of Programming Languages (POPL) 2022._  
 [[Full Text]](/assets/POPL2022_Final.pdf)
 
 **Statheros: Compiler for Efficient Low-Precision Probabilistic Programming**  
 Jacob Laurel, <u>Rem Yang</u>, Atharva Sehgal, Shubham Ugare, Sasa Misailovic  
-_58th ACM/IEEE Design Automation Conference (DAC 2021)._  
+_ACM/IEEE Design Automation Conference (DAC) 2021._  
 [[Full Text]](/assets/DAC2021_Final.pdf)
 
 <hr style="width:90%; border:none; border-top: dashed 1px" />
@@ -40,7 +46,7 @@ _58th ACM/IEEE Design Automation Conference (DAC 2021)._
 (*Current*: Spring 2020 - ) Working with and mentored by [Jacob Laurel](https://jsl1994.github.io/), [Professor Sasa Misailovic](https://misailo.cs.illinois.edu/), and [Professor Gagandeep Singh](https://ggndpsngh.github.io/). We work on a variety of fun topics in programming languages and machine learning. We have more exciting projects to come!
 
 ### **C3SR-URAI Research Program** ###
-(*Current*: Fall 2021 - ) Working with researchers from IBM on a topic in federated learning as part of the C3SR-URAI research program. More to come!
+(Spring 2022) Worked with researchers from IBM on a topic in federated learning as part of the C3SR-URAI research program.
 
 ### **Laboratory for Advanced Space Systems at Illinois** ###
 (Fall 2019 - Spring 2020) Built an automated system to measure the moment of inertia of [LASSI](https://lassiaero.web.illinois.edu/)'s CubeSat and tested the satellite's attitude determination software. Also worked on a browser-based graphical interface for the lab's mission operations center.
@@ -80,4 +86,4 @@ I also love playing chess, trivia, and other strategy games. If you'd like to pl
 **Sporcle:** I enjoy a nice trivia match from time to time (especially in the Geography section). [Here](https://www.sporcle.com/user/remythecooldude/) is my Sporcle account (the username is a little embarrassing, as I made the account back in sixth grade).
 
 <br>
-_Last updated on 07/25/2022_
+_Last updated on 09/22/2022_
