@@ -21,9 +21,8 @@
 title: Rem Yang
 email: remyang2@illinois.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi this is Rem! I am a senior majoring in computer science at the
-  University of Illinois at Urbana-Champaign who is interested in research and 
-  writing impactful software.
+  Hi this is Rem! I am a student at the University of Illinois Urbana-Champaign
+  working on research at the intersection of programming languages and machine learning.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://remyang55.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: remyang55

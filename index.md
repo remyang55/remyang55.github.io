@@ -8,23 +8,24 @@ title: Home
 <img src="/assets/profile_pic.jpg" alt="Profile Picture" style="float: left; margin-right: 5%" width="23%" />
 
 Hope you're having a great day, thanks for stopping by!  
-I am a senior majoring in [computer science at the University of Illinois Urbana-Champaign](https://cs.illinois.edu/) (UIUC) who is interested in research and creating impactful software, originally from [Taipei](https://goo.gl/maps/fLFFyzRABR2QwTAE7). Please send me an email if you'd like to talk about anything at all!
+I am a student at the [University of Illinois Urbana-Champaign](https://cs.illinois.edu/) (UIUC) working on research at the intersection of programming languages and machine learning. Please send me an email if you'd like to talk about anything at all!
 
 Sections:  
 <a href="#research-papers">Research Papers</a> • <a href="#experience">Experience</a> • <a href="#projects">Projects</a> • <a href="#fun-stuff">Fun Stuff</a>
 
+
 ## Research Papers ##
 <hr style="margin-top: -1em; margin-bottom: 1em; height: 2px; background-color:black; border:none" />
+
+**Provable Defense Against Geometric Transformations**  
+<u>Rem Yang</u>, Jacob Laurel, Sasa Misailovic, Gagandeep Singh  
+_arXiv preprint arXiv:2207.11177._  
+[[Full Text]](https://arxiv.org/abs/2207.11177)
 
 **A General Construction for Abstract Interpretation of Higher-Order Automatic Differentiation**  
 Jacob Laurel, <u>Rem Yang</u>, Shubham Ugare, Robert Nagel, Gagandeep Singh, Sasa Misailovic  
 _ACM SIGPLAN Conference on Object-Oriented Programming, Systems, Languages and Applications (OOPSLA) 2022._  
 [[Full Text]](/assets/OOPSLA2022_Final.pdf)
-
-**Training Certifiably Robust Neural Networks Against Semantic Perturbations***  
-<u>Rem Yang</u>, Jacob Laurel, Sasa Misailovic, Gagandeep Singh  
-_arXiv preprint arXiv:2207.11177._  
-[[Full Text]](https://arxiv.org/abs/2207.11177)
 
 **A Dual Number Abstraction for Static Analysis of Clarke Jacobians**  
 Jacob Laurel, <u>Rem Yang</u>, Gagandeep Singh, Sasa Misailovic  
@@ -36,8 +37,6 @@ Jacob Laurel, <u>Rem Yang</u>, Atharva Sehgal, Shubham Ugare, Sasa Misailovic
 _ACM/IEEE Design Automation Conference (DAC) 2021._  
 [[Full Text]](/assets/DAC2021_Final.pdf)
 
-<hr style="width:90%; border:none; border-top: dashed 1px" />
-**\***_Exciting follow-up work coming soon!_
 
 ## Experience ##
 <hr style="margin-top: -1em; margin-bottom: 1em; height: 2px; background-color:black; border:none" />
@@ -58,12 +57,13 @@ Helped students with machine problems and labs in weekly lab sections and office
 (Spring 2020) [CS 126 Software Design Studio](https://courses.grainger.illinois.edu/cs126/sp2020/staff/).
 Facilitated weekly 2-hour code reviews with 5 students, which consisted of project presentations and discussions of program design, style, and testing. Also graded students' projects.
 
+
 ## Projects ##
 <hr style="margin-top: -1em; margin-bottom: 1em; height: 2px; background-color:black; border:none" />
 
 ### **Illinois Computer Science Sail Website** ###
 [Source Code](https://github.com/SAIL-UIUC/sail-website). _Created with Django and hosted on an Apache server with a MySQL database._  
-I wrote a brand-new website over the 2020 summer for UIUC's Sail event, [linked here](https://sail.cs.illinois.edu/), which is currently maintained by the wonderful 2021 Sail Staff. The website allows teachers and students to easily sign-up for accounts and create/register for courses; it also has an interface for administrative tasks like sending massmails to participants.
+I wrote a brand-new website over the 2020 summer for UIUC's Sail event, [linked here](https://sail.cs.illinois.edu/), which is currently maintained by the wonderful 2022 Sail Staff. The website allows teachers and students to easily sign-up for accounts and create/register for courses; it also has an interface for administrative tasks like sending massmails to participants.
 
 ### **Tranzlate: The Zoom Translator** ###
 [Source Code w/ Demo](https://github.com/remyang55/tranzlate). _Created with React.js._  
@@ -76,6 +76,7 @@ I created this as a final project for UIUC's CS 126 Software Design Studio class
 ### **High School Stuff** ###
 There are also some small applets I wrote in high school, which are not on GitHub as I didn't use source control back then (good thing I learned it now!). But here are some fun games that I cowrote (with original music and artwork!) for a video game programming class: [Time Will Tell](https://gamejolt.com/games/TimeWillTell/357199) and [December 8th](https://gamejolt.com/games/December8/350027) (alluding to the assignment's due date).
 
+
 ## Fun Stuff ##  
 <hr style="margin-top: -1em; margin-bottom: 1em; height: 2px; background-color:black; border:none" />
 
@@ -86,4 +87,4 @@ I also love playing chess, trivia, and other strategy games. If you'd like to pl
 **Sporcle:** I enjoy a nice trivia match from time to time (especially in the Geography section). [Here](https://www.sporcle.com/user/remythecooldude/) is my Sporcle account (the username is a little embarrassing, as I made the account back in sixth grade).
 
 <br>
-_Last updated on 09/22/2022_
+_Last updated on 10/02/2022_
