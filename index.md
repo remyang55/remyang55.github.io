@@ -10,8 +10,8 @@ title: Home
 Hope you're having a great day, thanks for stopping by!  
 I am a student at the [University of Illinois Urbana-Champaign](https://cs.illinois.edu/) (UIUC) working on research at the intersection of programming languages and machine learning. Please send me an email if you'd like to talk about anything at all!
 
-Sections:  
-<a href="#research-papers">Research Papers</a> • <a href="#experience">Experience</a> • <a href="#projects">Projects</a> • <a href="#fun-stuff">Fun Stuff</a>
+<span style="display:block">Email: <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></span>
+<span>Github: <a href="https://github.com/{{ site.github_username| cgi_escape | escape }}"><span class="username">{{ site.github_username| escape }}</span></a></span>
 
 
 ## Research Papers ##
