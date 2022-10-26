@@ -5,7 +5,7 @@
 layout: home
 title: Home
 ---
-<img src="/assets/profile_pic.jpg" alt="Profile Picture" style="float: left; margin-right: 5%" width="23%" />
+<img src="/assets/profile_pic.jpg" alt="Profile Picture" style="float:left; margin-right:5%" width="23%" />
 
 Hope you're having a great day, thanks for stopping by!  
 I am a student at the [University of Illinois Urbana-Champaign](https://cs.illinois.edu/) (UIUC) working on research at the intersection of programming languages and machine learning. Please send me an email if you'd like to talk about anything at all!
@@ -14,8 +14,11 @@ I am a student at the [University of Illinois Urbana-Champaign](https://cs.illin
 <span>Github: <a href="https://github.com/{{ site.github_username| cgi_escape | escape }}"><span class="username">{{ site.github_username| escape }}</span></a></span>
 
 
-## Research Papers ##
-<hr style="margin-top: -1em; margin-bottom: 1em; height: 2px; background-color:black; border:none" />
+## Research ##
+<hr style="margin-top:-1em; margin-bottom:1em; height:2px; background-color:black; border:none" />
+
+### *Conference Papers and Preprints* ###
+<hr style="width:80%; border-top:dashed 1px; margin-top:-1em; margin-bottom:1em" />
 
 **Provable Defense Against Geometric Transformations**  
 <u>Rem Yang</u>, Jacob Laurel, Sasa Misailovic, Gagandeep Singh  
@@ -37,9 +40,16 @@ Jacob Laurel, <u>Rem Yang</u>, Atharva Sehgal, Shubham Ugare, Sasa Misailovic
 _ACM/IEEE Design Automation Conference (DAC) 2021._  
 [[Full Text]](/assets/DAC2021_Final.pdf)
 
+### *Posters* ###
+<hr style="width:80%; border-top:dashed 1px; margin-top:-1em; margin-bottom:1em" />
+
+**Federated Machine Unlearning**  
+<u>Rem Yang</u>, Supriyo Chakraborty, Parijat Dube  
+_Illinois Scholars Undergraduate Research (ISUR) Expo 2022._  
+[[Poster]](/assets/ISUR2022_Poster.pdf)
 
 ## Experience ##
-<hr style="margin-top: -1em; margin-bottom: 1em; height: 2px; background-color:black; border:none" />
+<hr style="margin-top:-1em; margin-bottom:1em; height:2px; background-color:black; border:none" />
 
 ### **Approximate and Resilient Computing Group** ###
 (*Current*: Spring 2020 - ) Working with and mentored by [Jacob Laurel](https://jsl1994.github.io/), [Professor Sasa Misailovic](https://misailo.cs.illinois.edu/), and [Professor Gagandeep Singh](https://ggndpsngh.github.io/). We work on a variety of fun topics in programming languages and machine learning. We have more exciting projects to come!
@@ -59,7 +69,7 @@ Facilitated weekly 2-hour code reviews with 5 students, which consisted of proje
 
 
 ## Projects ##
-<hr style="margin-top: -1em; margin-bottom: 1em; height: 2px; background-color:black; border:none" />
+<hr style="margin-top:-1em; margin-bottom:1em; height:2px; background-color:black; border:none" />
 
 ### **Illinois Computer Science Sail Website** ###
 [Source Code](https://github.com/SAIL-UIUC/sail-website). _Created with Django and hosted on an Apache server with a MySQL database._  
@@ -78,7 +88,7 @@ There are also some small applets I wrote in high school, which are not on GitHu
 
 
 ## Fun Stuff ##  
-<hr style="margin-top: -1em; margin-bottom: 1em; height: 2px; background-color:black; border:none" />
+<hr style="margin-top:-1em; margin-bottom:1em; height:2px; background-color:black; border:none" />
 
 I also love playing chess, trivia, and other strategy games. If you'd like to play, let me know!
 
@@ -87,4 +97,4 @@ I also love playing chess, trivia, and other strategy games. If you'd like to pl
 **Sporcle:** I enjoy a nice trivia match from time to time (especially in the Geography section). [Here](https://www.sporcle.com/user/remythecooldude/) is my Sporcle account (the username is a little embarrassing, as I made the account back in sixth grade).
 
 <br>
-_Last updated on 10/02/2022_
+_Last updated on 10/26/2022_
