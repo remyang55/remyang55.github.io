@@ -17,7 +17,7 @@ I am a student at the [University of Illinois Urbana-Champaign](https://cs.illin
 ## Research ##
 <hr style="margin-top:-1em; margin-bottom:1em; height:2px; background-color:black; border:none" />
 
-### *Conference Papers and Preprints* ###
+#### *Conference Papers and Preprints* ####
 <hr style="width:80%; border-top:dashed 1px; margin-top:-1em; margin-bottom:1em" />
 
 **Provable Defense Against Geometric Transformations**  
@@ -40,7 +40,7 @@ Jacob Laurel, <u>Rem Yang</u>, Atharva Sehgal, Shubham Ugare, Sasa Misailovic
 _ACM/IEEE Design Automation Conference (DAC) 2021._  
 [[Full Text]](/assets/DAC2021_Final.pdf)
 
-### *Posters* ###
+#### *Posters* ####
 <hr style="width:80%; border-top:dashed 1px; margin-top:-1em; margin-bottom:1em" />
 
 **Federated Machine Unlearning**  
