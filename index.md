@@ -23,22 +23,22 @@ I am a student at the [University of Illinois Urbana-Champaign](https://cs.illin
 **Provable Defense Against Geometric Transformations**  
 <u>Rem Yang</u>, Jacob Laurel, Sasa Misailovic, Gagandeep Singh  
 _arXiv preprint arXiv:2207.11177._  
-[[Full Text]](https://arxiv.org/abs/2207.11177)
+[Full Text](/assets/CGT.pdf) &bull; [arXiv](https://arxiv.org/abs/2207.11177) &bull; [OpenReview](https://openreview.net/forum?id=ThXqBsRI-cY)
 
 **A General Construction for Abstract Interpretation of Higher-Order Automatic Differentiation**  
 Jacob Laurel, <u>Rem Yang</u>, Shubham Ugare, Robert Nagel, Gagandeep Singh, Sasa Misailovic  
 _ACM SIGPLAN Conference on Object-Oriented Programming, Systems, Languages and Applications (OOPSLA) 2022._  
-[[Full Text]](/assets/OOPSLA2022_Final.pdf)
+[Full Text](/assets/OOPSLA2022_Final.pdf) &bull; [ACM DL](https://dl.acm.org/doi/10.1145/3563324)
 
 **A Dual Number Abstraction for Static Analysis of Clarke Jacobians**  
 Jacob Laurel, <u>Rem Yang</u>, Gagandeep Singh, Sasa Misailovic  
 _ACM SIGPLAN Symposium on Principles of Programming Languages (POPL) 2022._  
-[[Full Text]](/assets/POPL2022_Final.pdf)
+[Full Text](/assets/POPL2022_Final.pdf) &bull; [ACM DL](https://dl.acm.org/doi/10.1145/3498718)
 
 **Statheros: Compiler for Efficient Low-Precision Probabilistic Programming**  
 Jacob Laurel, <u>Rem Yang</u>, Atharva Sehgal, Shubham Ugare, Sasa Misailovic  
 _ACM/IEEE Design Automation Conference (DAC) 2021._  
-[[Full Text]](/assets/DAC2021_Final.pdf)
+[Full Text](/assets/DAC2021_Final.pdf) &bull; [IEEE Xplore](https://ieeexplore.ieee.org/document/9586276)
 
 #### *Posters* ####
 <hr style="width:80%; border-top:dashed 1px; margin-top:-1em; margin-bottom:1em" />
@@ -46,7 +46,7 @@ _ACM/IEEE Design Automation Conference (DAC) 2021._
 **Federated Machine Unlearning**  
 <u>Rem Yang</u>, Supriyo Chakraborty, Parijat Dube  
 _Illinois Scholars Undergraduate Research (ISUR) Expo 2022._  
-[[Poster]](/assets/ISUR2022_Poster.pdf)
+[Poster](/assets/ISUR2022_Poster.pdf)
 
 ## Experience ##
 <hr style="margin-top:-1em; margin-bottom:1em; height:2px; background-color:black; border:none" />
