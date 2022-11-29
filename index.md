@@ -51,14 +51,14 @@ _Illinois Scholars Undergraduate Research (ISUR) Expo 2022._
 ## Experience ##
 <hr style="margin-top:-1em; margin-bottom:1em; height:2px; background-color:black; border:none" />
 
+### **Connected Systems Lab** ###
+(*Current*: Spring 2022 - ) Working with and mentored by [Jay Shenoy](https://jayshenoy.web.illinois.edu/index.html) and [Professor Deepak Vasisht](https://deepakv.web.illinois.edu/). We work on wireless and satellite systems research!
+
 ### **Approximate and Resilient Computing Group** ###
-(*Current*: Spring 2020 - ) Working with and mentored by [Jacob Laurel](https://jsl1994.github.io/), [Professor Sasa Misailovic](https://misailo.cs.illinois.edu/), and [Professor Gagandeep Singh](https://ggndpsngh.github.io/). We work on a variety of fun topics in programming languages and machine learning. We have more exciting projects to come!
+(*Current*: Spring 2020 - ) Working with and mentored by [Jacob Laurel](https://jsl1994.github.io/), [Professor Sasa Misailovic](https://misailo.cs.illinois.edu/), and [Professor Gagandeep Singh](https://ggndpsngh.github.io/). We work on a variety of fun topics in programming languages and machine learning!
 
 ### **C3SR-URAI Research Program** ###
 (Spring 2022) Worked with researchers from IBM on a topic in federated learning as part of the C3SR-URAI research program.
-
-### **Laboratory for Advanced Space Systems at Illinois** ###
-(Fall 2019 - Spring 2020) Built an automated system to measure the moment of inertia of [LASSI](https://lassiaero.web.illinois.edu/)'s CubeSat and tested the satellite's attitude determination software. Also worked on a browser-based graphical interface for the lab's mission operations center.
 
 ### **Teaching (Course Assistant)** ###
 (Fall 2020 & Spring 2021) [CS 225 Data Structures](https://courses.engr.illinois.edu/cs225/sp2021/).
@@ -97,4 +97,4 @@ I also love playing chess, trivia, and other strategy games. If you'd like to pl
 **Sporcle:** I enjoy a nice trivia match from time to time (especially in the Geography section). [Here](https://www.sporcle.com/user/remythecooldude/) is my Sporcle account (the username is a little embarrassing, as I made the account back in sixth grade).
 
 <br>
-_Last updated on 10/26/2022_
+_Last updated on 11/28/2022_
