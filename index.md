@@ -5,10 +5,10 @@
 layout: home
 title: Home
 ---
-<img src="/assets/profile_pic.jpg" alt="Profile Picture" style="float:left; margin-right:5%" width="23%" />
+<img src="/assets/profile_pic.jpg" alt="Profile Picture" style="float:left; margin-right:5%" width="20%" />
 
-Hope you're having a great day, thanks for stopping by!  
-I am a student at the [University of Illinois Urbana-Champaign](https://cs.illinois.edu/) (UIUC) working on research at the intersection of programming languages and machine learning. Please send me an email if you'd like to talk about anything at all!
+Hope you're having a great day, thanks for stopping by! I am a fourth-year undergraduate student studying computer science at the [University of Illinois Urbana-Champaign](https://cs.illinois.edu/) (UIUC). Please send me an email if you'd like to talk about anything at all!  
+
 
 <span style="display:block">Email: <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></span>
 <span>Github: <a href="https://github.com/{{ site.github_username| cgi_escape | escape }}"><span class="username">{{ site.github_username| escape }}</span></a></span>
@@ -17,13 +17,10 @@ I am a student at the [University of Illinois Urbana-Champaign](https://cs.illin
 ## Research ##
 <hr style="margin-top:-1em; margin-bottom:1em; height:2px; background-color:black; border:none" />
 
-#### *Conference Papers and Preprints* ####
-<hr style="width:80%; border-top:dashed 1px; margin-top:-1em; margin-bottom:1em" />
-
 **Provable Defense Against Geometric Transformations**  
 <u>Rem Yang</u>, Jacob Laurel, Sasa Misailovic, Gagandeep Singh  
 _arXiv preprint arXiv:2207.11177._  
-[Full Text](/assets/CGT.pdf) &bull; [arXiv](https://arxiv.org/abs/2207.11177) &bull; [OpenReview](https://openreview.net/forum?id=ThXqBsRI-cY)
+[Full Text](/assets/CGT.pdf) &bull; [arXiv](https://arxiv.org/abs/2207.11177)
 
 **A General Construction for Abstract Interpretation of Higher-Order Automatic Differentiation**  
 Jacob Laurel, <u>Rem Yang</u>, Shubham Ugare, Robert Nagel, Gagandeep Singh, Sasa Misailovic  
@@ -40,9 +37,6 @@ Jacob Laurel, <u>Rem Yang</u>, Atharva Sehgal, Shubham Ugare, Sasa Misailovic
 _ACM/IEEE Design Automation Conference (DAC) 2021._  
 [Full Text](/assets/DAC2021_Final.pdf) &bull; [IEEE Xplore](https://ieeexplore.ieee.org/document/9586276)
 
-#### *Posters* ####
-<hr style="width:80%; border-top:dashed 1px; margin-top:-1em; margin-bottom:1em" />
-
 **Federated Machine Unlearning**  
 <u>Rem Yang</u>, Supriyo Chakraborty, Parijat Dube  
 _Illinois Scholars Undergraduate Research (ISUR) Expo 2022._  
@@ -57,15 +51,15 @@ _Illinois Scholars Undergraduate Research (ISUR) Expo 2022._
 ### **Approximate and Resilient Computing Group** ###
 (*Current*: Spring 2020 - ) Working with and mentored by [Jacob Laurel](https://jsl1994.github.io/), [Professor Sasa Misailovic](https://misailo.cs.illinois.edu/), and [Professor Gagandeep Singh](https://ggndpsngh.github.io/). We work on a variety of fun topics in programming languages and machine learning!
 
-### **C3SR-URAI Research Program** ###
-(Spring 2022) Worked with researchers from IBM on a topic in federated learning as part of the C3SR-URAI research program.
-
 ### **Teaching (Course Assistant)** ###
 (Fall 2020 & Spring 2021) [CS 225 Data Structures](https://courses.engr.illinois.edu/cs225/sp2021/).
 Helped students with machine problems and labs in weekly lab sections and office hours.  
 
 (Spring 2020) [CS 126 Software Design Studio](https://courses.grainger.illinois.edu/cs126/sp2020/staff/).
 Facilitated weekly 2-hour code reviews with 5 students, which consisted of project presentations and discussions of program design, style, and testing. Also graded students' projects.
+
+### **Psyonic** ###
+(Fall 2020) Part-time internship: developed mobile application that interfaces with [Psyonic](https://www.psyonic.io/)’s bionic arm in React Native and deployed app on Android and iOS.
 
 
 ## Projects ##
