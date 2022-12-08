@@ -5,13 +5,14 @@
 layout: home
 title: Home
 ---
-<img src="/assets/profile_pic.jpg" alt="Profile Picture" style="float:left; margin-right:5%" width="20%" />
+<img src="/assets/profile_pic.jpg" alt="Profile Picture" style="float:left; margin-right:5%" width="23%" />
 
 Hope you're having a great day, thanks for stopping by! I am a fourth-year undergraduate student studying computer science at the [University of Illinois Urbana-Champaign](https://cs.illinois.edu/) (UIUC). Please send me an email if you'd like to talk about anything at all!  
 
 
 <span style="display:block">Email: <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></span>
-<span>Github: <a href="https://github.com/{{ site.github_username| cgi_escape | escape }}"><span class="username">{{ site.github_username| escape }}</span></a></span>
+<span>Github: <a href="https://github.com/{{ site.github_username| cgi_escape | escape }}"><span class="username">{{ site.github_username| escape }}</span></a></span>  
+[My CV](/assets/RemYang_CV.pdf)
 
 
 ## Research ##
@@ -20,7 +21,7 @@ Hope you're having a great day, thanks for stopping by! I am a fourth-year under
 **Provable Defense Against Geometric Transformations**  
 <u>Rem Yang</u>, Jacob Laurel, Sasa Misailovic, Gagandeep Singh  
 _arXiv preprint arXiv:2207.11177._  
-[Full Text](/assets/CGT.pdf) &bull; [arXiv](https://arxiv.org/abs/2207.11177)
+[Full Text](/assets/CGT.pdf) &bull; [arXiv](https://arxiv.org/abs/2207.11177) &bull; [OpenReview](https://openreview.net/forum?id=ThXqBsRI-cY)
 
 **A General Construction for Abstract Interpretation of Higher-Order Automatic Differentiation**  
 Jacob Laurel, <u>Rem Yang</u>, Shubham Ugare, Robert Nagel, Gagandeep Singh, Sasa Misailovic  
@@ -91,4 +92,4 @@ I also love playing chess, trivia, and other strategy games. If you'd like to pl
 **Sporcle:** I enjoy a nice trivia match from time to time (especially in the Geography section). [Here](https://www.sporcle.com/user/remythecooldude/) is my Sporcle account (the username is a little embarrassing, as I made the account back in sixth grade).
 
 <br>
-_Last updated on 11/28/2022_
+_Last updated on 12/08/2022_
