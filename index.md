@@ -7,7 +7,7 @@ title: Home
 ---
 <img src="/assets/profile_pic.jpg" alt="Profile Picture" style="float:left; margin-right:5%" width="23%" />
 
-Hope you're having a great day, thanks for stopping by! I am a fourth-year undergraduate student studying computer science at the [University of Illinois Urbana-Champaign](https://cs.illinois.edu/) (UIUC). Please send me an email if you'd like to talk about anything at all!  
+Hope you're having a great day! I am a fourth-year undergraduate student studying computer science at the [University of Illinois Urbana-Champaign](https://cs.illinois.edu/) (UIUC). Please send me an email if you'd like to talk about anything at all! My CV and contact information are available below.  
 
 
 <span style="display:block">Email: <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></span>
@@ -20,12 +20,16 @@ Hope you're having a great day, thanks for stopping by! I am a fourth-year under
 
 **Provable Defense Against Geometric Transformations**  
 <u>Rem Yang</u>, Jacob Laurel, Sasa Misailovic, Gagandeep Singh  
-_arXiv preprint arXiv:2207.11177._  
-[Full Text](/assets/CGT.pdf) &bull; [arXiv](https://arxiv.org/abs/2207.11177) &bull; [OpenReview](https://openreview.net/forum?id=ThXqBsRI-cY)
+_Under review. arXiv preprint arXiv:2207.11177._  
+[Full Text](/assets/Geometric_Provable_Defense.pdf) &bull; [arXiv](https://arxiv.org/abs/2207.11177)
+
+**Multi-Modal Self-Supervised Learning for Satellite Image Time Series Segmentation**  
+Jayanth Shenoy*, <u>Rem Yang*</u>, Han Zhao, Deepak Vasisht  
+_Under review._  
 
 **A General Construction for Abstract Interpretation of Higher-Order Automatic Differentiation**  
 Jacob Laurel, <u>Rem Yang</u>, Shubham Ugare, Robert Nagel, Gagandeep Singh, Sasa Misailovic  
-_ACM SIGPLAN Conference on Object-Oriented Programming, Systems, Languages and Applications (OOPSLA) 2022._  
+_ACM SIGPLAN Conference on Object-oriented Programming, Systems, Languages, and Applications (OOPSLA) 2022._  
 [Full Text](/assets/OOPSLA2022_Final.pdf) &bull; [ACM DL](https://dl.acm.org/doi/10.1145/3563324)
 
 **A Dual Number Abstraction for Static Analysis of Clarke Jacobians**  
@@ -47,17 +51,17 @@ _Illinois Scholars Undergraduate Research (ISUR) Expo 2022._
 <hr style="margin-top:-1em; margin-bottom:1em; height:2px; background-color:black; border:none" />
 
 ### **Connected Systems Lab** ###
-(*Current*: Spring 2022 - ) Working with and mentored by [Jay Shenoy](https://jayshenoy.web.illinois.edu/index.html) and [Professor Deepak Vasisht](https://deepakv.web.illinois.edu/). We work on wireless and satellite systems research!
+(*Current*: Spring 2022 - ) Working with [Professor Deepak Vasisht](https://deepakv.web.illinois.edu/) and [Jay Shenoy](https://jayshenoy.web.illinois.edu/index.html) on wireless and satellite systems research.
 
 ### **Approximate and Resilient Computing Group** ###
-(*Current*: Spring 2020 - ) Working with and mentored by [Jacob Laurel](https://jsl1994.github.io/), [Professor Sasa Misailovic](https://misailo.cs.illinois.edu/), and [Professor Gagandeep Singh](https://ggndpsngh.github.io/). We work on a variety of fun topics in programming languages and machine learning!
+(*Current*: Spring 2020 - ) Working with [Professor Sasa Misailovic](https://misailo.cs.illinois.edu/), [Professor Gagandeep Singh](https://ggndpsngh.github.io/), and [Jacob Laurel](https://jsl1994.github.io/) on programming languages and machine learning research.
 
 ### **Teaching (Course Assistant)** ###
 (Fall 2020 & Spring 2021) [CS 225 Data Structures](https://courses.engr.illinois.edu/cs225/sp2021/).
 Helped students with machine problems and labs in weekly lab sections and office hours.  
 
 (Spring 2020) [CS 126 Software Design Studio](https://courses.grainger.illinois.edu/cs126/sp2020/staff/).
-Facilitated weekly 2-hour code reviews with 5 students, which consisted of project presentations and discussions of program design, style, and testing. Also graded students' projects.
+Facilitated weekly 2-hour code reviews with 5 students, which consisted of project presentations and discussions of program design, style, and testing; also graded students' projects.
 
 ### **Psyonic** ###
 (Fall 2020) Part-time internship: developed mobile application that interfaces with [Psyonic](https://www.psyonic.io/)’s bionic arm in React Native and deployed app on Android and iOS.
@@ -77,19 +81,3 @@ I made this for HackIllinois' [HackThis](https://hackthis.hackillinois.org/) vir
 ### **Finger Ninja** ###
 [Source Code](https://github.com/remyang55/finger-ninja). _Created with C++ openFrameworks._  
 I created this as a final project for UIUC's CS 126 Software Design Studio class. The game uses openFrameworks' openCV library so that you can play the classic Fruit Ninja game by swiping your finger in front of your laptop's webcam.
-
-### **High School Stuff** ###
-There are also some small applets I wrote in high school, which are not on GitHub as I didn't use source control back then (good thing I learned it now!). But here are some fun games that I cowrote (with original music and artwork!) for a video game programming class: [Time Will Tell](https://gamejolt.com/games/TimeWillTell/357199) and [December 8th](https://gamejolt.com/games/December8/350027) (alluding to the assignment's due date).
-
-
-## Fun Stuff ##  
-<hr style="margin-top:-1em; margin-bottom:1em; height:2px; background-color:black; border:none" />
-
-I also love playing chess, trivia, and other strategy games. If you'd like to play, let me know!
-
-**Chess:** I love playing chess! [Here](https://www.chess.com/member/pajamafairy) is my profile on chess.com and [here](https://lichess.org/@/pajamafairy) is my profile on lichess; I'm rated around 1900 on both of these sites.
-
-**Sporcle:** I enjoy a nice trivia match from time to time (especially in the Geography section). [Here](https://www.sporcle.com/user/remythecooldude/) is my Sporcle account (the username is a little embarrassing, as I made the account back in sixth grade).
-
-<br>
-_Last updated on 12/08/2022_
