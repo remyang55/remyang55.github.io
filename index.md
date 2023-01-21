@@ -14,14 +14,18 @@ Hope you're having a great day! I am a fourth-year undergraduate student studyin
 <span>Github: <a href="https://github.com/{{ site.github_username| cgi_escape | escape }}"><span class="username">{{ site.github_username| escape }}</span></a></span>  
 [My CV](/assets/RemYang_CV.pdf)
 
+## News ##
+<hr style="margin-top:-1em; margin-bottom:1em; height:2px; background-color:black; border:none" />
+**[01.2023]** Our paper has been accepted at ICLR 2023 (notable top 25%)  
+**[12.2022]** Received an Honorable Mention for the CRA Outstanding Undergraduate Researcher Award  
 
 ## Research ##
 <hr style="margin-top:-1em; margin-bottom:1em; height:2px; background-color:black; border:none" />
 
 **Provable Defense Against Geometric Transformations**  
 <u>Rem Yang</u>, Jacob Laurel, Sasa Misailovic, Gagandeep Singh  
-_Under review. arXiv preprint arXiv:2207.11177._  
-[Full Text](/assets/Geometric_Provable_Defense.pdf) &bull; [arXiv](https://arxiv.org/abs/2207.11177)
+_Accepted (<span style="color:red">notable top 25%</span>) at the International Conference on Learning Representations (ICLR) 2023._  
+[Full Text](/assets/Geometric_Provable_Defense.pdf) &bull; [OpenReview](https://openreview.net/forum?id=ThXqBsRI-cY)
 
 **Multi-Modal Self-Supervised Learning for Satellite Image Time Series Segmentation**  
 Jayanth Shenoy*, <u>Rem Yang*</u>, Han Zhao, Deepak Vasisht  
