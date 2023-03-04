@@ -25,11 +25,7 @@ Hope you're having a great day! I am a fourth-year undergraduate student studyin
 **Provable Defense Against Geometric Transformations**  
 <u>Rem Yang</u>, Jacob Laurel, Sasa Misailovic, Gagandeep Singh  
 _Accepted (<span style="color:red">notable top 25%</span>) at the International Conference on Learning Representations (ICLR) 2023._  
-[Full Text](/assets/Geometric_Provable_Defense.pdf) &bull; [OpenReview](https://openreview.net/forum?id=ThXqBsRI-cY)
-
-**Multi-Modal Self-Supervised Learning for Satellite Image Time Series Segmentation**  
-Jayanth Shenoy*, <u>Rem Yang*</u>, Han Zhao, Deepak Vasisht  
-_Under review._  
+[Full Text](/assets/ICLR2023_Final.pdf) &bull; [OpenReview](https://openreview.net/forum?id=ThXqBsRI-cY)
 
 **A General Construction for Abstract Interpretation of Higher-Order Automatic Differentiation**  
 Jacob Laurel, <u>Rem Yang</u>, Shubham Ugare, Robert Nagel, Gagandeep Singh, Sasa Misailovic  
