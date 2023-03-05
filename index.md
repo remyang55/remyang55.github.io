@@ -7,7 +7,7 @@ title: Home
 ---
 <img src="/assets/profile_pic.jpg" alt="Profile Picture" style="float:left; margin-right:5%" width="23%" />
 
-Hope you're having a great day! I am a fourth-year undergraduate student studying computer science at the [University of Illinois Urbana-Champaign](https://cs.illinois.edu/) (UIUC). Please send me an email if you'd like to talk about anything at all! My CV and contact information are available below.  
+Hope you're having a great day! I am a fourth-year undergraduate student in computer science at the [University of Illinois Urbana-Champaign](https://cs.illinois.edu/) (UIUC). Please send me an email if you'd like to talk about anything at all! My CV and contact information are available below.  
 
 
 <span style="display:block">Email: <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></span>
@@ -41,11 +41,6 @@ _ACM SIGPLAN Symposium on Principles of Programming Languages (POPL) 2022._
 Jacob Laurel, <u>Rem Yang</u>, Atharva Sehgal, Shubham Ugare, Sasa Misailovic  
 _ACM/IEEE Design Automation Conference (DAC) 2021._  
 [Full Text](/assets/DAC2021_Final.pdf) &bull; [IEEE Xplore](https://ieeexplore.ieee.org/document/9586276)
-
-**Federated Machine Unlearning**  
-<u>Rem Yang</u>, Supriyo Chakraborty, Parijat Dube  
-_Illinois Scholars Undergraduate Research (ISUR) Expo 2022._  
-[Poster](/assets/ISUR2022_Poster.pdf)
 
 ## Experience ##
 <hr style="margin-top:-1em; margin-bottom:1em; height:2px; background-color:black; border:none" />
