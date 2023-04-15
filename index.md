@@ -24,23 +24,23 @@ Hope you're having a great day! I am a fourth-year undergraduate student in comp
 
 **Provable Defense Against Geometric Transformations**  
 <u>Rem Yang</u>, Jacob Laurel, Sasa Misailovic, Gagandeep Singh  
-_Accepted (<span style="color:red">notable top 25%</span>) at the International Conference on Learning Representations (ICLR) 2023._  
-[Full Text](/assets/ICLR2023_Final.pdf) &bull; [OpenReview](https://openreview.net/forum?id=ThXqBsRI-cY)
+_International Conference on Learning Representations (ICLR) 2023, <span style="color:red">notable top 25%</span>._  
+[Full Text](/assets/ICLR2023_Final.pdf) &bull; [OpenReview](https://openreview.net/forum?id=ThXqBsRI-cY) &bull; [Code](https://github.com/uiuc-arc/CGT)
 
 **A General Construction for Abstract Interpretation of Higher-Order Automatic Differentiation**  
 Jacob Laurel, <u>Rem Yang</u>, Shubham Ugare, Robert Nagel, Gagandeep Singh, Sasa Misailovic  
 _ACM SIGPLAN Conference on Object-oriented Programming, Systems, Languages, and Applications (OOPSLA) 2022._  
-[Full Text](/assets/OOPSLA2022_Final.pdf) &bull; [ACM DL](https://dl.acm.org/doi/10.1145/3563324)
+[Full Text](/assets/OOPSLA2022_Final.pdf) &bull; [ACM DL](https://dl.acm.org/doi/10.1145/3563324) &bull; [Code](https://github.com/uiuc-arc/AbstractAD)
 
 **A Dual Number Abstraction for Static Analysis of Clarke Jacobians**  
 Jacob Laurel, <u>Rem Yang</u>, Gagandeep Singh, Sasa Misailovic  
 _ACM SIGPLAN Symposium on Principles of Programming Languages (POPL) 2022._  
-[Full Text](/assets/POPL2022_Final.pdf) &bull; [ACM DL](https://dl.acm.org/doi/10.1145/3498718)
+[Full Text](/assets/POPL2022_Final.pdf) &bull; [ACM DL](https://dl.acm.org/doi/10.1145/3498718) &bull; [Code](https://github.com/uiuc-arc/DeepJ)
 
 **Statheros: Compiler for Efficient Low-Precision Probabilistic Programming**  
 Jacob Laurel, <u>Rem Yang</u>, Atharva Sehgal, Shubham Ugare, Sasa Misailovic  
 _ACM/IEEE Design Automation Conference (DAC) 2021._  
-[Full Text](/assets/DAC2021_Final.pdf) &bull; [IEEE Xplore](https://ieeexplore.ieee.org/document/9586276)
+[Full Text](/assets/DAC2021_Final.pdf) &bull; [IEEE Xplore](https://ieeexplore.ieee.org/document/9586276) &bull; [Code](https://github.com/uiuc-arc/Statheros)
 
 ## Experience ##
 <hr style="margin-top:-1em; margin-bottom:1em; height:2px; background-color:black; border:none" />
