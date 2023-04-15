@@ -16,6 +16,7 @@ Hope you're having a great day! I am a fourth-year undergraduate student in comp
 
 ## News ##
 <hr style="margin-top:-1em; margin-bottom:1em; height:2px; background-color:black; border:none" />
+**[04.2023]** Excited to join Professor Martin Rinard and his team at MIT in the fall for my PhD  
 **[01.2023]** Our paper has been accepted at ICLR 2023 (notable top 25%)  
 **[12.2022]** Received an Honorable Mention for the CRA Outstanding Undergraduate Researcher Award  
 
