@@ -26,7 +26,7 @@ Hope you're having a great day! I am a fourth-year undergraduate student in comp
 **Provable Defense Against Geometric Transformations**  
 <u>Rem Yang</u>, Jacob Laurel, Sasa Misailovic, Gagandeep Singh  
 _International Conference on Learning Representations (ICLR) 2023, <span style="color:red">notable top 25%</span>._  
-[Full Text](/assets/ICLR2023_Final.pdf) &bull; [OpenReview](https://openreview.net/forum?id=ThXqBsRI-cY) &bull; [Code](https://github.com/uiuc-arc/CGT)
+[Full Text](/assets/ICLR2023_Final.pdf) &bull; [OpenReview](https://openreview.net/forum?id=ThXqBsRI-cY) &bull; [Code](https://github.com/uiuc-arc/CGT) &bull; [Slides](/assets/ICLR2023_Slides.pdf) &bull; [Poster](/assets/ICLR2023_Poster.pdf)
 
 **A General Construction for Abstract Interpretation of Higher-Order Automatic Differentiation**  
 Jacob Laurel, <u>Rem Yang</u>, Shubham Ugare, Robert Nagel, Gagandeep Singh, Sasa Misailovic  
