@@ -5,17 +5,18 @@
 layout: home
 title: Home
 ---
-<img src="/assets/profile_pic.jpg" alt="Profile Picture" style="float:left; margin-right:5%" width="23%" />
+<img src="/assets/profile_pic.jpg" alt="Profile Picture" style="float:left; margin-right:5%" width="25%" />
 
-Hope you're having a great day! I am a fourth-year undergraduate student in computer science at the [University of Illinois Urbana-Champaign](https://cs.illinois.edu/) (UIUC). Please send me an email if you'd like to talk about anything at all! My CV and contact information are available below.  
+Hope you're doing great! I recently graduated with a bachelor's in CS from the [University of Illinois Urbana-Champaign](https://cs.illinois.edu/) (UIUC). I will be starting a PhD in EECS at the [Massachusetts Institute of Technology](https://www.eecs.mit.edu/) (MIT) in the fall. Please send me an email if you'd like to talk about anything at all! My CV and contact information are available below.  
 
 
 <span style="display:block">Email: <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></span>
-<span>Github: <a href="https://github.com/{{ site.github_username| cgi_escape | escape }}"><span class="username">{{ site.github_username| escape }}</span></a></span>  
+<span>GitHub: <a href="https://github.com/{{ site.github_username | cgi_escape | escape }}"><span class="username">{{ site.github_username| escape }}</span></a></span>  
 [My CV](/assets/RemYang_CV.pdf)
 
 ## News ##
 <hr style="margin-top:-1em; margin-bottom:1em; height:2px; background-color:black; border:none" />
+**[05.2023]** Graduated from UIUC with a BS in Computer Science  
 **[04.2023]** Excited to join Professor Martin Rinard and his team at MIT in the fall for my PhD  
 **[01.2023]** Our paper has been accepted at ICLR 2023 (notable top 25%)  
 **[12.2022]** Received an Honorable Mention for the CRA Outstanding Undergraduate Researcher Award  
@@ -47,33 +48,19 @@ _ACM/IEEE Design Automation Conference (DAC) 2021._
 <hr style="margin-top:-1em; margin-bottom:1em; height:2px; background-color:black; border:none" />
 
 ### **Connected Systems Lab** ###
-(*Current*: Spring 2022 - ) Working with [Professor Deepak Vasisht](https://deepakv.web.illinois.edu/) and [Jay Shenoy](https://jayshenoy.web.illinois.edu/index.html) on wireless and satellite systems research.
+(Spring 2022 - Spring 2023) Worked with [Professor Deepak Vasisht](https://deepakv.web.illinois.edu/) and [Jay Shenoy](https://jayshenoy.web.illinois.edu/index.html) on wireless and satellite systems research.
 
-### **Approximate and Resilient Computing Group** ###
-(*Current*: Spring 2020 - ) Working with [Professor Sasa Misailovic](https://misailo.cs.illinois.edu/), [Professor Gagandeep Singh](https://ggndpsngh.github.io/), and [Jacob Laurel](https://jsl1994.github.io/) on programming languages and machine learning research.
-
-### **Teaching (Course Assistant)** ###
-(Fall 2020 & Spring 2021) [CS 225 Data Structures](https://courses.engr.illinois.edu/cs225/sp2021/).
-Helped students with machine problems and labs in weekly lab sections and office hours.  
-
-(Spring 2020) [CS 126 Software Design Studio](https://courses.grainger.illinois.edu/cs126/sp2020/staff/).
-Facilitated weekly 2-hour code reviews with 5 students, which consisted of project presentations and discussions of program design, style, and testing; also graded students' projects.
+### **Approximate and Resilient Computing (ARC) Group & <br> Formally Certified Automation and Learning (FOCAL) Lab** ###
+(Spring 2020 - Spring 2023) Worked with [Professor Sasa Misailovic](https://misailo.cs.illinois.edu/), [Professor Gagandeep Singh](https://ggndpsngh.github.io/), and [Jacob Laurel](https://jsl1994.github.io/) on programming languages and machine learning research.
 
 ### **Psyonic** ###
 (Fall 2020) Part-time internship: developed mobile application that interfaces with [Psyonic](https://www.psyonic.io/)’s bionic arm in React Native and deployed app on Android and iOS.
 
-
-## Projects ##
+## Teaching ##
 <hr style="margin-top:-1em; margin-bottom:1em; height:2px; background-color:black; border:none" />
 
-### **Illinois Computer Science Sail Website** ###
-[Source Code](https://github.com/SAIL-UIUC/sail-website). _Created with Django and hosted on an Apache server with a MySQL database._  
-I wrote a brand-new website over the 2020 summer for UIUC's Sail event, [linked here](https://sail.cs.illinois.edu/), which is currently maintained by the wonderful 2022 Sail Staff. The website allows teachers and students to easily sign-up for accounts and create/register for courses; it also has an interface for administrative tasks like sending massmails to participants.
+### **CS 225 Data Structures** ###
+(Fall 2020 & Spring 2021) Helped students with machine problems and lab assignments in weekly office hours and lab sections.  
 
-### **Tranzlate: The Zoom Translator** ###
-[Source Code w/ Demo](https://github.com/remyang55/tranzlate). _Created with React.js._  
-I made this for HackIllinois' [HackThis](https://hackthis.hackillinois.org/) virtual hackathon. The web app provides a convenient interface to translate Zoom meetings on-the-fly: on the top is a zoom meeting window, while on the bottom is a scrolling text box that transcribes and translates the meeting audio.
-
-### **Finger Ninja** ###
-[Source Code](https://github.com/remyang55/finger-ninja). _Created with C++ openFrameworks._  
-I created this as a final project for UIUC's CS 126 Software Design Studio class. The game uses openFrameworks' openCV library so that you can play the classic Fruit Ninja game by swiping your finger in front of your laptop's webcam.
+### **CS 126 Software Design Studio** ###
+(Spring 2020) Facilitated weekly 2-hour code reviews with 5 students, which consisted of project presentations and discussions of program design, style, and testing; graded students' projects.
