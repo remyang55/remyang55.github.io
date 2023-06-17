@@ -21,7 +21,7 @@ Hope you're doing great! I recently graduated with a bachelor's in CS from the [
 **[01.2023]** Our paper has been accepted at ICLR 2023 (notable top 25%)  
 **[12.2022]** Received an Honorable Mention for the CRA Outstanding Undergraduate Researcher Award  
 
-## Research ##
+## Publications ##
 <hr style="margin-top:-1em; margin-bottom:1em; height:2px; background-color:black; border:none" />
 
 **Provable Defense Against Geometric Transformations**  
