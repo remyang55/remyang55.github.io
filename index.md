@@ -7,17 +7,18 @@ title: Home
 ---
 <img src="/assets/profile_pic.jpg" alt="Profile Picture" style="float:left; margin-right:5%" width="25%" />
 
-Hope you're doing great! I recently graduated with a bachelor's in CS from the [University of Illinois Urbana-Champaign](https://cs.illinois.edu/) (UIUC). I will be starting a PhD in EECS at the [Massachusetts Institute of Technology](https://www.eecs.mit.edu/) (MIT) in the fall. Please send me an email if you'd like to talk about anything at all! My CV and contact information are available below.  
+Hope you are doing great! I am a first-year PhD student at [MIT EECS](https://www.eecs.mit.edu/) in [CSAIL](https://www.csail.mit.edu/), advised by Prof. Martin Rinard. I received my bachelor's in CS from the [University of Illinois Urbana-Champaign](https://cs.illinois.edu/) in 2023. Please send me an email if you'd like to talk about anything at all! My CV and contact information are available below.  
 
 
 <span style="display:block">Email: <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></span>
 <span>GitHub: <a href="https://github.com/{{ site.github_username | cgi_escape | escape }}"><span class="username">{{ site.github_username| escape }}</span></a></span>  
 [My CV](/assets/RemYang_CV.pdf)
+<br/>
 
 ## News ##
 <hr style="margin-top:-1em; margin-bottom:1em; height:2px; background-color:black; border:none" />
+**[09.2023]** Started my PhD at MIT with Professor Martin Rinard and his team  
 **[05.2023]** Graduated from UIUC with a BS in Computer Science  
-**[04.2023]** Excited to join Professor Martin Rinard and his team at MIT in the fall for my PhD  
 **[01.2023]** Our paper has been accepted at ICLR 2023 (notable top 25%)  
 **[12.2022]** Received an Honorable Mention for the CRA Outstanding Undergraduate Researcher Award  
 
