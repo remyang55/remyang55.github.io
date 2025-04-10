@@ -16,13 +16,15 @@ Hope you are doing great! I am a second-year PhD student at [MIT CSAIL](https://
 
 ## News ##
 <hr style="margin-top:-1em; margin-bottom:1em; height:2px; background-color:black; border:none" />
-**[09.2023]** Started my PhD at MIT with Professor Martin Rinard and his team  
-**[05.2023]** Graduated from UIUC with a BS in Computer Science  
-**[01.2023]** Our paper has been accepted at ICLR 2023 (notable top 25%)  
-**[12.2022]** Received an Honorable Mention for the CRA Outstanding Undergraduate Researcher Award  
+**[April 2025]** [New paper](https://arxiv.org/abs/2504.05518) on evaluating the generalization capabilities of large language models on code reasoning!
 
-## Publications ##
+## Research Papers ##
 <hr style="margin-top:-1em; margin-bottom:1em; height:2px; background-color:black; border:none" />
+
+**Evaluating the Generalization Capabilities of Large Language Models on Code Reasoning**  
+<u>Rem Yang</u>, Julian Dai, Nikos Vasilakis, Martin Rinard  
+_arXiv:2504.05518 2025._  
+[Full Text](/assets/LLM_Code_Reasoning_Generalization.pdf) &bull; [arXiv](https://arxiv.org/abs/2504.05518)
 
 **Self-Supervised Learning Across the Spectrum**  
 Jayanth Shenoy, Xingjian Davis Zhang, Bill Tao, Shlok Mehrotra, <u>Rem Yang</u>, Han Zhao, Deepak Vasisht  
