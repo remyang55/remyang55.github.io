@@ -7,8 +7,7 @@ title: Home
 ---
 <img src="/assets/profile_pic.jpg" alt="Profile Picture" style="float:left; margin-right:5%" width="25%" />
 
-Hope you are doing great! I am a first-year PhD student at [MIT EECS](https://www.eecs.mit.edu/) in [CSAIL](https://www.csail.mit.edu/), advised by [Prof. Martin Rinard](https://people.csail.mit.edu/rinard/). I received my bachelor's in CS from the [University of Illinois Urbana-Champaign](https://cs.illinois.edu/) in 2023. Please send me an email if you'd like to talk about anything at all! My CV and contact information are available below.  
-
+Hope you are doing great! I am a second-year PhD student at [MIT CSAIL](https://www.csail.mit.edu/), advised by [Prof. Martin Rinard](https://people.csail.mit.edu/rinard/). I received my bachelor's in CS from the [University of Illinois Urbana-Champaign](https://cs.illinois.edu/) in 2023. Please send me an email if you'd like to talk about anything at all! My CV and contact information are available below.  
 
 <span style="display:block">Email: <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></span>
 <span>GitHub: <a href="https://github.com/{{ site.github_username | cgi_escape | escape }}"><span class="username">{{ site.github_username| escape }}</span></a></span>  

@@ -19,9 +19,9 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Rem Yang
-email: remyang@mit.edu
+email: remyang@csail.mit.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi this is Rem! I am a first-year PhD student at MIT EECS & CSAIL. Previously, I completed my bachelor's in CS from UIUC.
+  Hi this is Rem! I am a second-year PhD student at MIT CSAIL. Previously, I completed my bachelor's in CS from UIUC.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://remyang55.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: remyang55
