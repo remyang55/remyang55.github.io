@@ -24,6 +24,11 @@ Hope you are doing great! I am a second-year PhD student at [MIT CSAIL](https://
 ## Publications ##
 <hr style="margin-top:-1em; margin-bottom:1em; height:2px; background-color:black; border:none" />
 
+**Self-Supervised Learning Across the Spectrum**  
+Jayanth Shenoy, Xingjian Davis Zhang, Bill Tao, Shlok Mehrotra, <u>Rem Yang</u>, Han Zhao, Deepak Vasisht  
+_Remote Sensing 2024._  
+[Full Text](/assets/RemoteSensing2024_Final.pdf) &bull; [arXiv](https://arxiv.org/abs/2405.01656)
+
 **Provable Defense Against Geometric Transformations**  
 <u>Rem Yang</u>, Jacob Laurel, Sasa Misailovic, Gagandeep Singh  
 _International Conference on Learning Representations (ICLR) 2023, <span style="color:red">notable top 25%</span>._  
